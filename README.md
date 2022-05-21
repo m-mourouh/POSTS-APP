@@ -26,3 +26,5 @@
 `npm start`
 
 Enjoy coding 
+
+<img src="https://github.com/m-mourouh/posts-app/blob/master/UI.png" />
