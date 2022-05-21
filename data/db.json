@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "This is my best framework",
+      "body": "I love using React for my projects , I created alot of project with reactjs \n",
+      "date": "Monday, May 16, 2022"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "This is a post",
+      "body": "Hi , I am ReactJs..",
+      "date": "Monday, May 16, 2022"
+    },
+    {
+      "title": "Developer life",
+      "body": "I have no life until I reach my dream",
+      "id": 400,
+      "date": "2022-05-19T22:06:49.382Z"
+    },
+    {
+      "title": "Angular Vs ReactJs",
+      "body": "Angular is a complete framework but ReactJs is Library ",
+      "id": 35,
+      "date": "2022-05-21T14:26:37.901Z"
+    },
+    {
+      "title": "ss",
+      "body": "sssss",
+      "id": 321,
+      "date": "2022-05-21T18:48:14.829Z"
+    }
+  ]
+}
