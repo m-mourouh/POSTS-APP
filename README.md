@@ -25,6 +25,8 @@
 
 `npm start`
 
-Enjoy coding 
+### App UI
 
 <img src="https://github.com/m-mourouh/posts-app/blob/master/UI.png" />
+
+Enjoy coding 
